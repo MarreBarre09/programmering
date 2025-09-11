@@ -1,0 +1,8 @@
+print("Hej där")
+print("Vad heter du?")
+namn = input()
+print("Hej", namn, "Kul att du är här")
+print("Hur gammal är du?")
+ålder = input()
+ålder = int(ålder)
+print("Wow", namn, "du är", ålder + 10, "år gammal om 10 år!")

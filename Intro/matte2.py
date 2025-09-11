@@ -1,0 +1,7 @@
+print("Skriv första nummeret")
+x = input()
+x = int(x)
+print("Skriv andra nummeret")
+y = input()
+y = int(y)
+print ("x+y =", x + y, "x-y =", x - y, " x*y =", x * y, "och x/y", x / y,)
