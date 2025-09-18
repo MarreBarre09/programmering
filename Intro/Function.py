@@ -8,5 +8,5 @@ def power_of(x, y):
     return x ** y
 
 result = double(number)
-result_2 = double()
+result_2 = double(40)
 print(result)
